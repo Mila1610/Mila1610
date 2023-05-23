@@ -1,5 +1,11 @@
 ### Hola soy Milagros bienvenid@👋
 
+- ⚡ Actualmente estoy estudiando en Laboratoria
+- 🎓 Soy Ingeniera de Sistemas y Computación 
+- 😄 Me encanta la programación y todo el reto que lleva realizar un proyecto 
+- 🌱 Habilidades: JS | HTML | CSS | SCRUM | FIGMA | NODO | NPM 
+- 📫 Conactate con migo en: milagrossalcedoalbornoz@gmail.com
+
 <!--
 **Mila1610/Mila1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
